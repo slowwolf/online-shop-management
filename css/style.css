@@ -180,11 +180,11 @@ background-color:#008B8B;
 {
 	width:1150px;
 	height:450px;
- background-repeat: no-repeat;
- background-attachment: fixed;
- z-index: ;
-   
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  z-index: 
 }
+
 .btn-help 
 {
 	color: #008B8B;
@@ -274,7 +274,7 @@ border-color:#6FA40C;
   font-size:25px;
   height:40px;
   width:40px;
-  float-left:20px;
+  
 }
 .contact-title
 {
@@ -557,7 +557,7 @@ border-radius:10px;
 h3 .cat
 {
   color:#0B0B3B;
-  margin-right: 5px:;
+  margin-right: 5px
 }
 
 div.catgallery {
